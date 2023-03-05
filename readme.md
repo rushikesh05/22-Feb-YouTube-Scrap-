@@ -4,6 +4,7 @@
 1. Push code to github
 2. Create: Web App
 ```
+### I am using azure for deployment
 * Create/Select: Resource
 * Create: Instance name
 * Select; Runtime stack
